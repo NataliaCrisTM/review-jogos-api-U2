@@ -60,10 +60,9 @@ Cada camada tem uma responsabilidade única:
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/seu-usuario/game-collection-api.git
-
+git clone https://github.com/NataliaCrisTM/review-jogos-api-U2
 # 2. Entre na pasta
-cd game-collection-api
+cd review-api-u2
 
 # 3. Instale as dependências
 npm install
